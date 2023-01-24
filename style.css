@@ -12,3 +12,8 @@
     max-height: 90vh;
     object-fit: cover;
 }
+.links{
+    text-decoration: none;
+    color: white;
+
+}
